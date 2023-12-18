@@ -1,3 +1,4 @@
+data:,{"p":"wrc-20","op":"mint","tick":"wemis","amt":"1000"}
 import { mergeDeep } from "../utils/fetch.js";
 
 import { llamaNodesRpcs } from "./llamaNodesRpcs.js";
